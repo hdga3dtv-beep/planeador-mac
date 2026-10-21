@@ -1,0 +1,14 @@
+# Lo de cada docente no se sube: sus planeaciones, sus datos y su registro
+planeaciones/*
+!planeaciones/DEMO para video - Comemos sano.json
+!planeaciones/DEMO para video - Comemos sano.panel
+mis_datos.json
+registro.txt
+# Lo arma la revisión automática (con Python portátil): va en Releases, no en el repositorio
+dist/
+python/
+python-arm64/
+python-x86_64/
+__pycache__/
+*.pyc
+.DS_Store

@@ -1,0 +1,184 @@
+{
+ "_nota": "Formato de la titular de 6.º A, Esc. Prim. Urbana 136 «Cedros del Líbano» (oct 2026). Coordenadas [fila, columna] de las tablas del formato, contadas desde 0. No se cambia nada de la plantilla salvo lo que aquí se declara.",
+ "plantilla": "cedros-6A.docx",
+ "escuela": "Escuela Primaria Urbana 136 «Cedros del Líbano»",
+ "encabezado_lista": "Escuela Primaria Urbana 136 «Cedros del Líbano» · 14EPR0290F · Zona escolar 75, sector 4 · 6.º A",
+ "grupo": "6.º A",
+ "docente_titular": "",
+ "practicante": "",
+ "horario": "después del recreo",
+ "_nota_datos": "Datos de la escuela y del grupo que van en el encabezado y en las listas; el Planeador los manda en 'datos' y reemplazan a estos (10 oct). Con estos mismos, el encabezado queda igual al de la titular.",
+ "datos": {
+  "escuela": "Escuela Primaria Urbana 136. Cedros del Líbano",
+  "cct": "14EPR0290F",
+  "zona": "75",
+  "sector": "4",
+  "docente": "",
+  "fase": "5",
+  "grado": "6",
+  "grupo": "A",
+  "supervisor": "",
+  "director": "",
+  "titular": "",
+  "catedratico": "",
+  "normal": ""
+ },
+ "_nota_logos": "Logos que él adjunta en el Planeador (11 oct). El izquierdo reemplaza al escudo de la escuela en el encabezado (se ajusta a su caja); el derecho va en la esquina derecha y el recuadro con el nombre de la escuela se recorre a la izquierda o se angosta para dejarle lugar. Medidas en EMU.",
+ "logos": {
+  "escudo": {
+   "rid": "rId1",
+   "cx": 730024,
+   "cy": 942980,
+   "max_cx": 1300000
+  },
+  "recuadro": {
+   "x": 2398714,
+   "cx": 5600700,
+   "cx_interior": 5572125
+  },
+  "ancho_util": 8229600,
+  "inicio_escudo": 250000,
+  "separacion": 110000
+ },
+ "_nota_firmas": "Hoja de firmas en orden de jerarquía (10 oct): supervisor(a), director(a), titular, catedrático(a) y docente en formación. Cada nombre lleva su título (Maestra, Doctor…), que decide si el cargo va en femenino o masculino; las que van sin nombre no salen. {escuela_firmas} es el nombre de la escuela como en las firmas de la titular, o el que él escriba.",
+ "firmas_plantilla": [
+  [
+   "{supervisor}",
+   "{Supervisor} de la Zona Escolar {zona}"
+  ],
+  [
+   "{director}",
+   "{Director} de la {escuela_firmas}"
+  ],
+  [
+   "{titular}",
+   "Docente titular del grupo {grado}.º {grupo} de la {escuela_firmas}"
+  ],
+  [
+   "{catedratico}",
+   "{Catedrático} de la materia Investigación e Innovación de la Práctica Docente, {normal}"
+  ],
+  [
+   "Normalista {docente}",
+   "Docente en formación, {normal}"
+  ]
+ ],
+ "encabezado": {
+  "periodo_rotulo": "Periodo de aplicación del proyecto: ",
+  "campos": [
+   [
+    "ESCUELA PRIMARIA URBANA 136\\. CEDROS DEL LÍBANO\\. 14EPR0290F",
+    "{ESCUELA}. {CCT}"
+   ],
+   [
+    "ZONA ESCOLAR 75, SECTOR EDUCATIVO 4",
+    "ZONA ESCOLAR {zona}, SECTOR EDUCATIVO {sector}"
+   ],
+   [
+    "NOMBRE DEL DOCENTE ",
+    "{DOCENTE} "
+   ],
+   [
+    "Fase: 5( +)Grado y grupo: 6\\S* A/B",
+    "Fase: {fase}\\1Grado y grupo: {grado_grupo}"
+   ]
+  ]
+ },
+ "tabla1": {
+  "central": [
+   0,
+   1
+  ],
+  "ejes": [
+   0,
+   3
+  ],
+  "nombre": [
+   1,
+   1
+  ],
+  "tema": [
+   2,
+   1
+  ],
+  "pregunta": [
+   3,
+   1
+  ],
+  "metodologia": [
+   4,
+   1
+  ],
+  "filas_campo": {
+   "len": 7,
+   "ens": 8,
+   "spc": 9,
+   "dhc": 10
+  },
+  "parciales": [
+   11,
+   1
+  ],
+  "finales": [
+   12,
+   1
+  ],
+  "cierre": [
+   13,
+   1
+  ]
+ },
+ "tabla2_filas_sesion": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "tabla3": {
+  "vinculacion": [
+   0,
+   1
+  ],
+  "recursos": [
+   1,
+   1
+  ],
+  "evaluacion": [
+   2,
+   1
+  ],
+  "nee": [
+   3,
+   1
+  ]
+ },
+ "firmas": [],
+ "cuadernos": {
+  "proyectos": "cuaderno naranja de proyectos",
+  "tareas": "cuaderno morado de tareas",
+  "agenda": "agenda amarilla",
+  "margenes": {
+   "len": "rojo",
+   "spc": "azul",
+   "ens": "verde",
+   "dhc": "morado"
+  },
+  "no_se_usan": [
+   "azul (lectoescritura)",
+   "rosita (matemáticas)"
+  ]
+ },
+ "nee": "",
+ "alumnos": [],
+ "lista": {
+  "_nota": "Hojas de evaluación con sus formatos (6 oct 2026): Lista_de_cotejo_Sexto_A.docx y Lista_de_cotejo_Producciones_Sexto_A.docx, copiados en esta carpeta.",
+  "escuela": "Escuela Urbana 136 \"Cedros del Líbano\" · C.C.T. 14EPR0290F",
+  "grupo": "Sexto \"A\"",
+  "titulo_indicadores": "Rúbrica de indicadores",
+  "producciones": 30,
+  "nota_producciones": "Cada producto se canjea por un punto en la lista. Todo producto canjeado debe marcarse como canjeado."
+ },
+ "registro_evaluacion": "Para registrar, llama a los alumnos de cinco en cinco por número de lista mientras los demás trabajan.",
+ "duracion_sesion": "1 h 30 min"
+}

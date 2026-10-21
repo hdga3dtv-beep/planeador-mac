@@ -1,0 +1,998 @@
+{
+ "len": [
+  {
+   "contenido": "Escritura de nombres en la lengua materna.",
+   "primero": [
+    "Escribe su nombre y lo compara con los nombres de sus compañeros, lo usa para indicar la autoría de sus trabajos, marcar sus útiles escolares, registrar su asistencia, entre otros.",
+    "Identifica nombres más largos o cortos que el suyo, nombres que empiezan o terminan con la misma letra que el propio, sus iniciales, el diminutivo de su nombre, etcétera."
+   ],
+   "segundo": [
+    "Escribe su nombre y apellidos y de sus de familiares, profesoras y profesores, pares y otras personas de su entorno para indicar autoría, pertenencia e identidad.",
+    "Compara características de c, s, z, b, v, h, g, j, i, y, ll, k, q, r, rr, w, x, etcétera."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Lectura compartida en voz alta.",
+   "primero": [
+    "Reconoce que se lee y escribe de izquierda a derecha y de arriba a abajo.",
+    "Sigue la lectura en voz alta que hace la o el maestro (u otras personas alfabetizadas) de recados, cartas, cuentos, notas informativas, poemas, canciones, anuncios publicitarios, instructivos, etcétera.",
+    "Establece correspondencias entre oralidad y escritura.",
+    "Hace comentarios y preguntas sobre textos que escucha y acerca de palabras o ideas que no entiende.",
+    "Verifica o confirma información acerca del contenido de textos, mediante la relectura de fragmentos o textos completos.",
+    "Lee en voz alta letreros, carteles, recados, mensajes y otros textos de su elección."
+   ],
+   "segundo": [
+    "Relee o pide que le relean en voz alta algún fragmento o pasaje para comprender mejor el significado de lo leído.",
+    "Comenta con otras personas el contenido de textos que ha escuchado: actitudes de los protagonistas de una historia; datos o situaciones interesantes; alternativas para resolver un problema o atender una necesidad; experiencias personales; reportes sobre noticias, etcétera.",
+    "Lee en voz alta, para otros y para sí, diversos textos, como cuentos, poemas, canciones, notas informativas, cartas, anuncios publicitarios, etcétera."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Narración de actividades y eventos relevantes que tengan lugar en la familia, la escuela o el resto de la comunidad.",
+   "primero": [
+    "Relata historias relacionadas con actividades y eventos que tienen lugar en su entorno inmediato, cuidando el orden lógico de los hechos y el volumen de voz.",
+    "Identifica la secuencia de acciones y a los protagonistas y otros personajes involucrados en una historia.",
+    "Reconoce que, para que una narración se entienda, debe cuidarse tanto la coherencia como la claridad de lo que se expresa.",
+    "Responde preguntas que le hacen sobre su narración.",
+    "Recrea y comparte una historia personal con viñetas conformadas de dibujo y texto, cuidando el orden lógico de los hechos."
+   ],
+   "segundo": [
+    "Narra actividades y eventos que han tenido lugar en la escuela, empleando una organización temporal y causal.",
+    "Escucha narraciones, comenta y pregunta sobre aquello que le interesa, no comprende o le causa extrañeza.",
+    "Regula, al narrar, las formas de expresarse, cuidando la claridad, secuencia de ideas y precisión.",
+    "Reconoce y respeta diferentes formas de interactuar, adecuadas a cada situación comunicativa, como la participación por turnos, la escucha activa, etcétera.",
+    "Recrea y comparte un evento de la escuela con viñetas constituidas por dibujo y texto, cuidando el orden temporal y causal."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Escritura colectiva por medio del dictado.",
+   "primero": [
+    "Reconoce espacios, alineación y direccionalidad, izquierda-derecha y arriba-abajo, entre palabras y enunciados.",
+    "Escribe, aunque no de manera convencional, ideas que quiere comunicar y las verbaliza para colaborar en la escritura colectiva de diferentes tipos de texto por medio del dictado al docente.",
+    "Identifica palabras que se repiten en distintos textos o en diferentes partes de un mismo texto y descubre que se escriben de la misma forma.",
+    "Descubre el valor sonoro convencional de las letras y lo utiliza como criterio para organizar su escritura.",
+    "Establece correspondencias entre la oralidad y la escritura."
+   ],
+   "segundo": [
+    "Produce diferentes textos de manera colectiva, mediante el dictado, tomando en cuenta el propósito comunicativo, las y los destinatarios y los tipos de texto.",
+    "Elabora colectivamente cuentos, versos rimados y otros textos con secuencia lógica, descripción de personajes y lugares.",
+    "Reconoce distintas formas de organización en los diferentes tipos de texto.",
+    "Identifica otros signos que acompañan a las letras en la escritura (interrogación, exclamación, puntos, comas, vírgula, etcétera).",
+    "Revisa y corrige el texto que dicta o le dictan, a fin de verificar que se entiende lo que se quiere comunicar; identifica palabras que se repiten y da sugerencias para sustituirlas."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Descripción de objetos, lugares y seres vivos.",
+   "primero": [
+    "Describe de manera oral y/o escrita, en su lengua materna, objetos, lugares y seres vivos reales o ficticios.",
+    "Representa objetos, lugares y seres vivos de forma plástica, sonora, corporal, teatral y/o por medio de otros lenguajes artísticos."
+   ],
+   "segundo": [
+    "Describe de forma oral y escrita, en su lengua materna, objetos, lugares y seres vivos de su entorno natural y social.",
+    "Representa objetos, lugares y seres vivos de forma plástica, sonora, corporal, teatral y/o por medio de otros lenguajes artísticos."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Uso de convenciones de la escritura presentes en la cotidianeidad.",
+   "primero": [
+    "Distingue letras de números, u otros signos o marcas gráficas que identifica y traza en textos de uso cotidiano.",
+    "Reconoce espacios, alineación y direccionalidad (izquierda-derecha y arriba-abajo) entre palabras y entre enunciados.",
+    "Comprende que cada letra tiene varias posibilidades de escritura: mayúsculas, minúsculas o variaciones de estilo.",
+    "Asocia los sonidos vocálicos con sus letras correspondientes, así como los sonidos consonánticos más significativos para ellos, o más usuales en su lengua.",
+    "Identifica de manera inicial otros signos que acompañan las letras en la escritura.",
+    "Conoce formas de organización de textos en otras lenguas: originarias, árabe, chino, hebreo, etcétera."
+   ],
+   "segundo": [
+    "Identifica letras en textos escritos en español y en lengua(s) indígena(s).",
+    "Diferencia convenciones de la escritura en español y en alguna(s) lengua(s) indígena(s).",
+    "Reconoce letras que pueden relacionarse con sonidos diferentes, así como sonidos equivalentes que pueden relacionarse con letras distintas y asocia los sonidos vocálicos y consonánticos con sus letras correspondientes.",
+    "Escribe nombres propios iniciando con una mayúscula, empleando espacios entre palabras y comienza a hacer uso de signos de puntuación en su escritura, reflexionando sobre la existencia de las convenciones de los lenguajes."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Uso del dibujo y/o la escritura para recordar actividades y acuerdos escolares.",
+   "primero": [
+    "Escribe y/o dibuja para realizar tareas en casa, recordar mensajes, llevar materiales a clase, registrar acuerdos, etcétera."
+   ],
+   "segundo": [
+    "Registra por escrito instrucciones breves para realizar actividades en casa, listas de materiales o datos, asentar normas, etcétera."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Registro y/o resumen de información consultada en fuentes orales, escritas, audiovisuales, táctiles o sonoras, para estudiar y/o exponer.",
+   "primero": [
+    "Registra sobre un tema de su interés, por medio de la escritura, esquema, dibujo, fotografía y video, a partir de la escucha, lectura, observación u otra manera de interactuar con alguna fuente de información.",
+    "Comparte o expone la información registrada."
+   ],
+   "segundo": [
+    "Registra información sobre un tema, a partir de la indagación en familia y el resto de la comunidad.",
+    "Expone con congruencia, de manera oral o, en su caso, lengua de señas, su registro del tema.",
+    "Registra y organiza información a través de la escritura, videograbación, esquematización, modelación, sobre temas de su interés, a partir de indagación en libros, revistas, periódicos, audiovisuales y con personas de la comunidad.",
+    "Expone información registrada y organizada, de manera oral o en lengua de señas, con apoyo de imágenes, sonidos, actuación u otros recursos."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Empleo de textos con instrucciones para participar en juegos, usar o elaborar objetos, preparar alimentos u otros propósitos.",
+   "primero": [
+    "Sigue instrucciones, orales o escritas, para preparar un alimento sencillo y saludable (receta), utilizar o construir un objeto y/o participar en un juego o alguna otra actividad.",
+    "Explica a sus compañeras y compañeros las instrucciones que siguió y revisa el proceso, así como el resultado."
+   ],
+   "segundo": [
+    "Realiza actividades a partir de la lectura de instructivos.",
+    "Explica a sus compañeras y compañeros el proceso a seguir para el uso o construcción de objetos y para llevar a cabo otra actividad.",
+    "Escribe, con el apoyo opcional de imágenes, instrucciones para uso o construcción de objetos, realizar actividades o algún otro propósito."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Producción e interpretación de avisos, carteles, anuncios publicitarios y letreros en la vida cotidiana.",
+   "primero": [
+    "Identifica las características y funciones de letreros, carteles, avisos y otros textos públicos que se hallan en su contexto escolar y, en general, comunitario.",
+    "Propone ideas para la elaboración colectiva de letreros, carteles y/o avisos que contribuyan a lograr propósitos individuales y colectivos."
+   ],
+   "segundo": [
+    "Reconoce características y funciones de anuncios publicitarios, que se encuentran en su contexto escolar y, en general, comunitario.",
+    "Elabora en forma individual y colectiva avisos publicitarios, escribe textos breves con formato de letreros, carteles y avisos, a partir de un propósito comunicativo establecido."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Elaboración y difusión de notas informativas en la escuela y el resto de la comunidad.",
+   "primero": [
+    "Identifica las características de una nota informativa y sus funciones.",
+    "Reflexiona sobre la importancia de la veracidad en las notas informativas.",
+    "Colabora en la escritura colectiva de notas informativas breves, respetando sus principales características y funciones."
+   ],
+   "segundo": [
+    "Comenta en forma cotidiana notas informativas leídas o escuchadas.",
+    "Indaga sobre hechos relevantes para su comunidad y elabora notas informativas escritas sobre estos, con o sin ilustraciones.",
+    "Difunde notas informativas en portadores de texto impresos o electrónicos, como periódico mural, boletín comunitario, blogs, portales de internet."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Producción de textos dirigidos a autoridades y personas de la comunidad, en relación con necesidades, intereses o actividades escolares.",
+   "primero": [
+    "Identifica necesidades de la escuela y de la localidad a partir de preguntas y observaciones que involucran a las compañeras y los compañeros, familiares, las vecinas y los vecinos, las y los docentes, autoridades y otras personas.",
+    "Identifica a personas de la comunidad que pueden contribuir a la solución de necesidades previstas.",
+    "Elabora, en colectivo, dibujos y textos que expliquen las necesidades identificadas y mediante los cuales soliciten la intervención de personas que podrían contribuir para satisfacerlas."
+   ],
+   "segundo": [
+    "Indaga sobre necesidades, intereses y actividades de la escuela, así como sobre las formas en que personas de la comunidad podrían participar a favor de éstos.",
+    "Redacta textos, de manera individual o colectiva, dirigidos a alguna persona o institución de la comunidad, a fin de solicitar su intervención para satisfacer alguna necesidad, interés o invitarle a participar en actividades escolares.",
+    "Da seguimiento a la solicitud realizada, con apoyo de la o el docente y familiares."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Lectura, escritura y otros tipos de interacción mediante lenguajes que ocurren en el contexto familiar.",
+   "primero": [
+    "Explora portadores de texto, como libros, revistas, documentos digitales, entre otros, que se encuentran en su ambiente familiar, si alguien los usa, con qué propósitos y en qué lengua están."
+   ],
+   "segundo": [
+    "Realiza actividades de escritura con su familia y registra con quién escribe, qué escribe, para qué escribe, en qué lengua y con qué soporte (cuaderno, computadora, celular, entre otros)."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Comunicación a distancia con familiares u otras personas.",
+   "primero": [
+    "Participa con ideas en la elaboración de un texto para alguien que vive en otro lugar, a través del dictado a la o el docente o de la escritura autónoma.",
+    "Comprende los elementos y procedimientos necesarios para enviar un mensaje a personas que viven lejos, ya sea por medios físicos o electrónicos."
+   ],
+   "segundo": [
+    "Conoce diversas formas de comunicación a distancia, explica cómo funcionan y utiliza al menos una, de acuerdo con las posibilidades de su contexto."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Conversaciones o entrevistas con personas de la comunidad y otros lugares.",
+   "primero": [
+    "Formula preguntas acordes al tema que abordará una persona invitada y escucha de manera atenta la información.",
+    "Recupera con sus palabras la información que escuchó sobre el tema que abordó una persona invitada."
+   ],
+   "segundo": [
+    "Formula y ajusta sus preguntas en función de la información que requiere.",
+    "Recupera la información que escuchó, para relacionarla con otra información, en textos escritos o en otros medios y contextos."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Reconocimiento de la diversidad lingüística y cultural en la familia, la escuela y el resto de la comunidad.",
+   "primero": [
+    "Identifica distintas maneras de emplear la lengua materna en su familia, escuela y el resto de la comunidad.",
+    "Reflexiona sobre las diferencias al emplear la lengua materna en función de la edad y el lugar de procedencia de los hablantes.",
+    "Comprende y aprecia la diversidad lingüística y cultural de su comunidad por medio del reconocimiento de expresiones en su lengua materna empleadas en la familia y la escuela."
+   ],
+   "segundo": [
+    "Indaga sobre su lengua materna y otras lenguas, ya sean indígenas o extranjeras, que se hablan en su región.",
+    "Comprende y aprecia la diversidad lingüística y cultural de su comunidad por medio de la escucha y la lectura de textos diversos, como poemas, canciones, mitos y leyendas.",
+    "Analiza y valora la importancia del uso y aprendizaje de su lengua materna."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Exploración de testimonios escritos, fotográficos y audiovisuales del pasado familiar y comunitario.",
+   "primero": [
+    "Expresa lo que sabe de su familia o de alguna persona cercana, a través de fotografías, eventos, objetos, comidas, entre otros elementos que permitan reconocer sus identidades individual y colectiva en relación con el reconocimiento del pasado.",
+    "Reconoce diversos sucesos familiares y comunitarios que ocurrieron antes de que naciera y reflexiona sobre su relación con el presente."
+   ],
+   "segundo": [
+    "Expresa ideas y emociones del pasado familiar y comunitario a través de fotografías, eventos, objetos, comidas, entre otros elementos que permitan reconocer sus identidades individual y colectiva en relación con el reconocimiento del pasado.",
+    "Produce textos y dibujos sobre sucesos familiares y comunitarios que ocurrieron antes de que naciera y su relación con el presente."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Reflexión sobre los medios de comunicación.",
+   "primero": [
+    "Describe y opina sobre lo que ve o escucha cotidianamente en medios de comunicación, como radio y televisión.",
+    "Reflexiona sobre lo que ve, escucha y siente al interactuar con distintos medios de comunicación."
+   ],
+   "segundo": [
+    "Comenta y cuestiona los contenidos de programas que ve o escucha en los medios de comunicación, para comenzar a construir un criterio propio."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Uso de elementos de los lenguajes artísticos en la vida cotidiana.",
+   "primero": [
+    "Reconoce que los movimientos, imágenes y sonidos constituyen lenguajes que permiten la comunicación.",
+    "Experimenta con formas, colores, sonidos, texturas, movimientos o gestos para expresar sensaciones, emociones, sentimientos e ideas que surgen en el entorno.",
+    "Imita sonidos o imágenes del entorno con su cuerpo o con objetos a su disposición."
+   ],
+   "segundo": [
+    "Representa situaciones cotidianas relacionadas con el entorno natural y social, por medio de movimientos, sonidos e imágenes para comunicar sensaciones, emociones, sentimientos e ideas.",
+    "Crea secuencias con formas, colores, sonidos, texturas, movimientos o gestos para crear una historia que tenga lugar en su vida cotidiana.",
+    "Experimenta lúdicamente mediante sonidos, movimientos y gestos distintas acciones que se llevan a cabo en la vida cotidiana, para imaginar otras formas de realizarlas."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Uso de los lenguajes artísticos para expresar rasgos de las identidades personal y colectiva.",
+   "primero": [
+    "Representa lo que le significa su nombre; es decir, el sentido que le da, por medio de formas, colores, texturas, sonidos, movimientos y/o gestos.",
+    "Recrea elementos de la naturaleza que le despiertan asombro mediante formas, colores, sonidos, movimientos y gestos.",
+    "Crea una producción artística colectiva, como un mural, video, exposición de dibujos o fotografías, en la que se compartan y expresen gustos e intereses personales y colectivos."
+   ],
+   "segundo": [
+    "Reconoce y representa aspectos característicos de su identidad personal a través del uso de formas, colores, texturas, sonidos, movimientos y/o gestos.",
+    "Reconoce aspectos que conforman la identidad colectiva con sus pares y representa rasgos identitarios que comparten mediante formas, colores, texturas, sonidos, movimientos y/o gestos.",
+    "Representa por medio de formas, figuras, colores, texturas, sonidos, movimientos y/o gestos los elementos de la naturaleza que le despiertan distintas emociones, como curiosidad, temor, gusto y asombro."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Intervención del entorno familiar y escolar para imaginar y realizar propuestas de mejora.",
+   "primero": [
+    "Explora, desde la perspectiva de género, las cualidades del entorno familiar y escolar y las representa mediante el uso intencional de formas, colores, texturas, sonidos, movimientos y gestos.",
+    "Experimenta creativamente con cambios en la disposición de objetos en el entorno escolar y lo interviene de manera temporal con imágenes, cantos, movimientos, producciones escritas y sonidos para resignificar la percepción del espacio."
+   ],
+   "segundo": [
+    "Reconoce sensaciones, emociones, sentimientos e ideas que le produce el entorno familiar y escolar para expresarlas mediante el uso intencional del cuerpo.",
+    "Imagina posibilidades de cambio y mejora, desde la perspectiva de género, en el entorno familiar y escolar, y las representa usando distintos formatos visuales, sonoros y corporales en una producción artística.",
+    "Interviene colectivamente el entorno escolar mediante cantos, producciones escritas, movimientos, bailes, objetos y figuras, partiendo de la toma de acuerdos, para identificar y plantear propuestas de solución a un problema."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Apreciación de canciones, rondas infantiles, arrullos y cuentos.",
+   "primero": [
+    "Escucha y canta diversas canciones, rondas infantiles y arrullos, elige las que son de su agrado y explica las razones de su elección.",
+    "Sigue la letra impresa de las canciones, rondas infantiles y arrullos conocidos, mientras la o el docente u otra persona los canta, e identifica la relación entre algunas palabras y frases que sigue en la letra impresa y las que escucha.",
+    "Sigue el ritmo y melodía de canciones, rondas infantiles y arrullos al cantarlas con la o el docente, y reflexiona sobre las características sonoras convencionales de las letras, palabras y frases que incluyen."
+   ],
+   "segundo": [
+    "Explora los elementos paratextuales de los libros (como portada, contraportada, título, ilustraciones, formato) que contienen los cuentos que escuchará y/o leerá, y anticipa su contenido.",
+    "Escucha y/o lee cuentos de libros explorados, y, al finalizar, verifica las anticipaciones realizadas.",
+    "Emplea palabras cuya escritura conoce como pistas para la lectura de títulos y nombres de personajes y lugares donde se desarrollan las historias.",
+    "Identifica las historias y personajes principales de los cuentos escuchados y/o leídos, y representa algunos por medio de títeres, esculturas, dibujos u objetos cotidianos."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Experimentación con elementos sonoros en composiciones literarias.",
+   "primero": [
+    "Escucha y lee poemas, trabalenguas y adivinanzas, para disfrutarlos y conocer algunos recursos lingüísticos, como la rima, la onomatopeya y el calambur.",
+    "Reconoce la función y características de la rima (sonoridad, ritmo, musicalidad), así como la semejanza gráfica entre las palabras que riman.",
+    "Produce rimas sencillas a partir de situaciones cotidianas.",
+    "Interactúa con distintos poemas, trabalenguas y adivinanzas, para reconocer sus elementos sonoros."
+   ],
+   "segundo": [
+    "Identifica rimas, onomatopeyas, calambures y otros elementos sonoros en diferentes composiciones literarias.",
+    "Participa lúdicamente en el disfrute y creación de juegos de palabras con cualidades sonoras, en las que se empleen recursos lingüísticos, como la rima, la onomatopeya y el calambur.",
+    "Crea una secuencia sonora en la que explore variaciones de intensidad, duración, tono y timbre, para representar las sensaciones, emociones, sentimientos e ideas que le provocan las composiciones literarias."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Interacción con manifestaciones culturales y artísticas.",
+   "primero": [
+    "Interactúa con manifestaciones culturales y artísticas presentes en la comunidad, para reflexionar y dialogar sobre las emociones y sentimientos que le producen.",
+    "Reconoce que los seres humanos expresan sensaciones, emociones, sentimientos e ideas por medio de los lenguajes empleados en las manifestaciones culturales y artísticas.",
+    "Identifica que las manifestaciones culturales y artísticas evidencian distintas formas de ser, estar y nombrar el mundo, haciendo uso de los elementos de los lenguajes artísticos; por ejemplo, formas, sonidos, colores, movimientos o gestos."
+   ],
+   "segundo": [
+    "Explora manifestaciones culturales y artísticas y las relaciona con experiencias e ideas propias, para reconocerse como miembro de una comunidad.",
+    "Interactúa con manifestaciones culturales y artísticas de su comunidad, para identificar rasgos de su identidad colectiva.",
+    "Analiza elementos de los lenguajes presentes en manifestaciones culturales y artísticas de su comunidad, y les da un uso estético al representar rasgos de sus identidades personal y colectiva."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Recreación de historias mediante el uso artístico de las palabras, del cuerpo, del espacio y del tiempo.",
+   "primero": [
+    "Interpreta historias sencillas.",
+    "Reconoce características principales de diferentes historias (nudo, personajes, tiempo y espacio), para imaginar otros finales.",
+    "Crea cómics a partir de una experiencia personal o de una lectura.",
+    "Emplea el cuerpo en una secuencia de movimientos para contar una historia sencilla o representar una narración de su interés.",
+    "Juega a hacer improvisaciones teatrales modificando el espacio y tiempo por medio de la ficción para crear historias propias."
+   ],
+   "segundo": [
+    "Lee algunas historietas de contenido sencillo y comenta sus impresiones.",
+    "Reconoce recursos gráficos de los cómics (viñetas, globos, planos) e identifica la función de las onomatopeyas, al emplearlos en la elaboración de cómics que cuentan historias.",
+    "Comprende la función comunicativa de las onomatopeyas en la lectura y escritura de cómics que publica en el periódico mural o comunitario.",
+    "Representa una historia inventada en colectivo, utilizando objetos cotidianos como personajes, a los cuales les crea voz y vestuario."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Representación de distintas formas de ser y estar en el mundo a partir de la ficción.",
+   "primero": [
+    "Lee de forma individual y colectiva textos que contengan seres imaginarios, para representarlos empleando elementos de los lenguajes artísticos.",
+    "Crea personajes ficticios, empleando formas, colores, texturas, movimientos, gestos y sonidos, a partir de una narración, poema, canción, pintura, escultura, película, historieta u obra de teatro."
+   ],
+   "segundo": [
+    "Construye personajes combinando distintas características de las personas y seres vivos de su entorno.",
+    "Investiga sobre distintas formas de hablar, pensar, comer, moverse, vestirse y relacionarse de las personas de diferentes comunidades, para otorgarle características a un personaje creado por él.",
+    "Reconoce que el vestuario, el maquillaje y las máscaras, entre otros recursos, se usan en manifestaciones culturales y artísticas para enriquecer la caracterización de un personaje."
+   ],
+   "por_cotejar": []
+  }
+ ],
+ "spc": [
+  {
+   "contenido": "Cuerpo humano: estructura externa, acciones para su cuidado y sus cambios como parte del crecimiento.",
+   "primero": [
+    "Compara y representa las partes externas del cuerpo humano, explica su funcionamiento; propone y practica acciones para cuidarlo y argumenta la frecuencia con que es recomendable llevarlas a cabo y por qué.",
+    "Describe sus características físicas y las de sus pares para favorecer el autoconocimiento y reconocer que todos los cuerpos son especiales, únicos e irrepetibles y merecen ser respetados.",
+    "Identifica, representa cronológicamente y comunica cómo es ahora y cómo era antes con base en características físicas, gustos, intereses, o actividades que realiza, e infiere algunos cambios que tendrá en el futuro al compararse con personas mayores y reconoce que son parte del crecimiento."
+   ],
+   "segundo": [
+    "Reconoce y describe los órganos de los sentidos y su función; explica y representa acciones que los ponen en riesgo, así como aquellas que previenen accidentes y que favorecen su cuidado.",
+    "Identifica los órganos sexuales externos como una característica natural de las personas, utiliza los nombres correctos para referirse a ellos (vulva, pene y testículos), y reconoce la importancia de practicar hábitos de higiene.",
+    "Reconoce que los órganos sexuales son partes privadas que no deben ser tocadas por otras personas, para propiciar el autoconocimiento, el autocuidado y el respeto."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Beneficios del consumo de alimentos saludables, de agua simple potable, y de la práctica de actividad física.",
+   "primero": [
+    "Indaga, registra y compara el tipo, la frecuencia y la cantidad de bebidas y alimentos que consume de manera personal en casa y la escuela.",
+    "Explica y representa los beneficios de consumir alimentos saludables (frutas, verduras, cereales, leguminosas y de origen animal), y agua simple potable, al compararlos con alimentos con alto contenido de azúcar, grasa y sal, y bebidas azucaradas; toma decisiones a favor de una alimentación saludable.",
+    "Describe los alimentos y bebidas saludables que consume en casa, escuela y comunidad, y que junto con la práctica de actividad física le ayudan a crecer y evitar enfermedades."
+   ],
+   "segundo": [
+    "Reconoce y representa el tipo y la cantidad de alimentos que consume en comparación con el consumo de los adultos y con la actividad física que realizan.",
+    "Reconoce la importancia de una alimentación saludable, que responda a las necesidades y características de la edad y la actividad física de cada persona.",
+    "Reconoce y clasifica los alimentos y bebidas, que consume en la escuela y en su casa, en naturales, procesados y ultraprocesados; e infiere sus implicaciones en la salud.",
+    "Describe los alimentos y bebidas saludables que se producen localmente (frutas, verduras, carnes, lácteos, fermentados, entre otros) y se consumen en ciertos momentos del año, de acuerdo con su contexto y las prácticas socioculturales."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Características del entorno natural y sociocultural.",
+   "primero": [
+    "Distingue, describe y registra, en su lengua materna, las características del entorno natural: plantas, animales, cuerpos de agua, si hace frío o calor, frecuencia de lluvias y sequías, entre otras.",
+    "Observa, compara y registra características de plantas y animales, como color, estructura y cubierta corporal, si son domésticos o silvestres; tienen flores, frutos o tienen espinas, raíces u hojas, entre otras, para clasificarlos a partir de criterios propios o consensuados.",
+    "Identifica y describe algunas prácticas socioculturales que forman parte de su entorno, relacionadas con el tipo de vivienda, vestido, juego, formas de hablar, medir, celebraciones y cuidado de la naturaleza, entre otras.",
+    "Representa en dibujos o croquis los componentes del entorno natural y sociocultural a partir de algunas referencias espaciales (enfrente, detrás, derecha, izquierda, cerca, lejos, entre otras) y el punto de referencia de la persona observadora."
+   ],
+   "segundo": [
+    "Compara y describe las características naturales de diferentes lugares de México como desiertos, selvas, arrecifes de coral, manglares, entre otros; a partir de identificar cómo son, si hace frío o calor, la frecuencia con que llueve, cómo son las plantas y los animales que viven en los lugares, o de qué se alimentan.",
+    "Observa, con apoyo de lupas y lentes de aumento, plantas y animales para comparar y representar sus características: forma y número de patas, lugar donde habitan, cómo se desplazan, qué comen o qué necesitan para vivir, textura y forma de las hojas, tallos, si son árboles, arbustos o yerbas; describe algunas interacciones de plantas y animales con otros componentes naturales (agua, suelo, aire, Sol).",
+    "Reconoce y describe cómo las personas aprovechan los componentes naturales para satisfacer sus necesidades de vestido, alimentación y vivienda."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Impacto de las actividades humanas en el entorno natural, así como acciones y prácticas socioculturales para su cuidado.",
+   "primero": [
+    "Identifica actividades personales, familiares y de la comunidad que impactan en la naturaleza y en la salud de las personas, las registra y clasifica como positivas o negativas.",
+    "Propone y participa en acciones y prácticas socioculturales de su comunidad que favorecen el cuidado del entorno natural; expresa la importancia de establecer relaciones más armónicas con la naturaleza."
+   ],
+   "segundo": [
+    "Describe y representa el efecto que tienen las actividades humanas en plantas, animales, agua, suelo y aire; reflexiona en torno a la manera en cómo se aprovechan y toma decisiones que tengan un menor impacto en el entorno natural y la salud.",
+    "Identifica, describe y participa en acciones y prácticas socioculturales para disminuir el impacto en plantas, animales, agua, suelo y aire y cuidar el entorno natural."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Objetos del entorno: características, propiedades, estados físicos y usos en la vida cotidiana.",
+   "primero": [
+    "Observa, manipula y compara diversos objetos a partir de características como color, tamaño, olor, textura, material de qué están hechos (madera, vidrio, metal, plástico), entre otras, para clasificarlos con base en criterios propios o consensuados.",
+    "Explora y experimenta con diversos materiales para explicar sus propiedades: flexible (se puede doblar o no); ligero o pesado; elástico (regresa o no a su forma original después de haber sido estirado) y resistente (difícil o fácil de romper); los clasifica de acuerdo con ellas y argumenta sus conclusiones.",
+    "Establece relaciones entre las propiedades de los materiales con el uso que se les da al elaborar ciertos objetos, como el plástico con el cual se hacen bolsas, envases, sillas, cubiertos, juguetes, plumas, entre otros; diseña y construye un objeto o juguete con base en las propiedades físicas de los materiales."
+   ],
+   "segundo": [
+    "Experimenta y compara la temperatura de diversos objetos con el uso de sus sentidos y del termómetro para proponer una escala en la que ubique los objetos de los más fríos a los más calientes; reconoce que este instrumento permite realizar mediciones de temperatura más precisas.",
+    "Identifica los materiales con que están hechos algunos objetos que hay en casa y que le protegen de las quemaduras o que permiten manipular objetos calientes; reconoce la importancia de prevenir quemaduras y propone acciones para evitarlas.",
+    "Identifica los estados físicos del agua a partir de experimentar con la variación de la temperatura y establecer relaciones causa-efecto; reconoce las características de sólidos y líquidos, (si tienen o no una forma definida) y extrapola dichas características a otros materiales."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Efectos de la aplicación de fuerzas: movimiento y deformación.",
+   "primero": [
+    "Observa de manera directa o en diversos medios, la trayectoria (recta, curva o circular) y rapidez (rápido o lento) de diferentes animales al desplazarse, como: mariposas, zopilotes, colibríes, hormigas, delfines, serpientes, entre otros, y registra sus conclusiones.",
+    "Experimenta con objetos al empujarlos y jalarlos para describir cómo se mueven, modifican su estado de reposo, se detiene, o cambian de sentido o rapidez; registra sus observaciones y conclusiones.",
+    "Caracteriza el movimiento con base en términos comunes, como “más lento que, más rápido que” y la descripción de diferentes trayectorias: recta, curva o circular."
+   ],
+   "segundo": [
+    "Experimenta con objetos de diversos materiales para identificar cómo se deforman al empujarlos, jalarlos, ejercer una presión sobre ellos o hacerlos chocar.",
+    "Reconoce la deformación de objetos como resultado de la aplicación de una fuerza y su relación con las propiedades de los materiales con los que están hechos."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Características del sonido y la luz.",
+   "primero": [
+    "Indaga y describe los sonidos producidos en su entorno; experimenta con diversos objetos o instrumentos musicales, para identificar la fuente sonora y cómo se produce el sonido (golpear, rasgar o soplar).",
+    "Distingue, clasifica y registra en tablas, algunas características del sonido a partir de percibir distintos sonidos, como intensidad o volumen (qué tan fuerte o débil es), tono (agudo o grave) y duración (largo o corto).",
+    "Establece relaciones entre la intensidad del sonido, la generación de problemas auditivos y la contaminación auditiva; propone y difunde medidas para el cuidado de la salud.",
+    "Indaga cómo fabricar un juguete o instrumento musical que produzca sonido, construye uno y explica su funcionamiento y las características del sonido que produce."
+   ],
+   "segundo": [
+    "Explora su entorno para distinguir y registrar fuentes naturales y artificiales de luz y su aprovechamiento en actividades cotidianas; indaga beneficios y riesgos de su uso, propone y difunde medidas para el cuidado de la salud.",
+    "Experimenta y describe características perceptibles de la luz, a partir de la interacción con diferentes fuentes luminosas y materiales (vidrio, madera, metal, papel o plástico) con los que están elaborados objetos transparentes, opacos o brillantes.",
+    "Experimenta con fuentes de luz y objetos de diferentes materiales para generar sombras e identificar las condiciones necesarias para su formación."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Cambios y regularidades de fenómenos naturales y actividades de las personas.",
+   "primero": [
+    "Reconoce la sucesión del día y la noche a partir de describir cronológicamente las actividades personales, familiares y comunitarias que se realizan, teniendo como referencia la presencia del Sol y la Luna, así como algunas de sus características perceptibles como forma, cambio de posición, y emisión de luz y calor.",
+    "Describe y registra de manera cronológica cambios y regularidades del entorno natural durante el día, la noche y a lo largo de una semana, utilizando términos, como ayer, hoy, mañana, los nombres y orden de los días de la semana y las relaciones temporales “antes de” y “después de”."
+   ],
+   "segundo": [
+    "Indaga con personas de la comunidad u otros medios de información algunos fenómenos naturales que ocurren durante los meses y el año, y registra sus hallazgos, para establecer regularidades.",
+    "Observa los cambios en la forma de la Luna a lo largo de un mes, los registra con dibujos teniendo como guía una hoja del calendario que corresponda al mes en que realiza la observación, sin pretender que reconozca los nombres de las fases lunares."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Estudio de los números.",
+   "primero": [
+    "Expresa oralmente la sucesión numérica en su lengua materna y en español, primero hasta 20, luego hasta 40, posteriormente hasta 60 y finalmente hasta 120 elementos, o hasta donde sea posible en su lengua materna, de manera ascendente y descendente a partir de un número dado.",
+    "A través de situaciones cotidianas, cuenta, ordena, representa de diferentes formas, interpreta, lee y escribe la cantidad de elementos de una colección, primero de hasta 5, después hasta de 10 y paulatinamente de hasta 100 elementos.",
+    "Identifica regularidades en la sucesión numérica hasta 100."
+   ],
+   "segundo": [
+    "Expresa oralmente la sucesión numérica hasta 1000, en español y hasta donde sea posible en su lengua materna, de manera ascendente y descendente a partir de un número dado.",
+    "A través de situaciones cotidianas cuenta, ordena, representa de diferentes formas, interpreta, lee y escribe la cantidad de elementos de colecciones con menos de 1000 elementos; identifica regularidades en los números que representan unidades, decenas y centenas.",
+    "Utiliza los símbolos “<”, “>” o “=” para comparar u ordenar dos números."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Construcción de la noción de suma y resta, y su relación como operaciones inversas.",
+   "primero": [
+    "Reconoce, a partir de la resolución de situaciones que implican agregar, quitar, juntar, comparar y completar, que la suma es el total de dos o más cantidades y la resta, como la pérdida de elementos en una colección.",
+    "Resuelve problemas vinculados a su contexto que implican sumas o restas (sin hacer uso del algoritmo convencional) con cantidades de hasta dos dígitos; representa de diversas formas (material concreto, representaciones gráficas) sumas y restas, incluyendo los signos “+”, “−”, “=” y numerales.",
+    "Utiliza, explica y comprueba sus estrategias para calcular mentalmente sumas o restas con números naturales de una cifra."
+   ],
+   "segundo": [
+    "Representa con diferentes expresiones aditivas (suma y resta) cantidades menores a 1000.",
+    "Resuelve problemas que implican avanzar (suma) y retroceder (resta) en la recta numérica.",
+    "Resuelve situaciones problemáticas vinculadas a su contexto que implican sumas utilizando agrupamientos y el algoritmo convencional con números de hasta dos cifras.",
+    "Utiliza, explica y comprueba sus estrategias para calcular mentalmente sumas o restas con números naturales de hasta dos cifras."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Construcción de la noción de multiplicación y división, y su relación como operaciones inversas.",
+   "primero": [],
+   "segundo": [
+    "Resuelve problemas vinculados a su contexto que requieren multiplicar con apoyo de material concreto, sumas iteradas o arreglos rectangulares, que involucran números menores o iguales a 10; reconoce a la multiplicación como la operación que resuelve problemas en los que siempre se suma la misma cantidad y utiliza el signo “×” (por) para representarla.",
+    "Distingue y explica diferencias entre problemas que se resuelven con sumas de sumandos diferentes y problemas que se resuelven con sumas de sumandos iguales.",
+    "Utiliza y explica diversas estrategias para calcular mentalmente multiplicaciones de números naturales menores que 10.",
+    "Resuelve, mediante diversos procedimientos, problemas que implican repartos con divisores menores que 10 y dividendo de dos cifras."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Cuerpos geométricos y sus características.",
+   "primero": [
+    "Observa y manipula objetos de su entorno para identificar y describir líneas rectas o curvas, caras planas o curvas; los representa mediante diversos procedimientos."
+   ],
+   "segundo": [
+    "Clasifica objetos de su entorno o cuerpos geométricos de acuerdo con distintos criterios (caras planas o curvas, caras iguales); los construye usando cajas, bloques o cubos."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Figuras geométricas y sus características.",
+   "primero": [
+    "Representa animales, plantas u objetos utilizando el tangram y otras figuras geométricas, para reconocer y describir oralmente y por escrito sus nombres y propiedades (forma y número de lados y vértices), utilizando paulatinamente un lenguaje formal para referirse a ellas."
+   ],
+   "segundo": [
+    "Construye composiciones geométricas cada vez más complejas, por el tipo de figuras o por el número de “piezas”, con el uso del tangram y geoplano.",
+    "Clasifica y describe polígonos por el número de lados en triángulos, cuadriláteros, pentágonos, hexágonos y octágonos, utilizando paulatinamente un lenguaje formal para referirse a sus propiedades (número de vértices y lados); los construye sobre retículas de cuadrados o puntos."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Medición de longitud, masa y capacidad.",
+   "primero": [
+    "Compara la longitud de objetos de manera directa e indirecta con apoyo de un intermediario (objetos o partes de su cuerpo); determina cuál es el mayor, el menor o si son iguales y expresa el resultado de la comparación en su lengua materna y en español, con dibujos y numerales.",
+    "Sopesa objetos para estimar cuál tiene mayor o menor masa; comprueba su estimación con el apoyo de una balanza."
+   ],
+   "segundo": [
+    "Estima, mide, compara, ordena y registra longitudes, usando unidades arbitrarias (objetos o instrumentos de medida) de su comunidad y las representa en rectas numéricas.",
+    "Compara capacidades y masas, usando unidades de medida de la comunidad, o unidades arbitrarias; representa los resultados con dibujos y numerales."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Medición del tiempo.",
+   "primero": [
+    "Utiliza términos como antes, después, hoy, ayer, mañana, etc., en su lengua materna y en español, para describir y registrar cronológicamente actividades en un periodo determinado (día, semana, mes) con el apoyo de calendarios; reconoce que la semana está integrada por siete días que ocurren cíclicamente."
+   ],
+   "segundo": [
+    "Describe y registra cronológicamente en tablas, pictogramas o calendarios, hechos y fenómenos naturales y sociales en periodos (día, semana, mes y año), utilizando los términos de su comunidad (actividad recurrente durante todo el ciclo escolar); reconoce que el año está integrado por doce meses que ocurren cíclicamente."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Organización e interpretación de datos.",
+   "primero": [
+    "Elabora registros de datos mediante distintos recursos como pictogramas o tablas para responder preguntas de su interés."
+   ],
+   "segundo": [
+    "Recolecta, organiza, representa e interpreta datos en tablas o pictogramas para responder preguntas de su interés."
+   ],
+   "por_cotejar": []
+  }
+ ],
+ "ens": [
+  {
+   "contenido": "Diversos contextos sociales, naturales y territoriales: cambios y continuidades.",
+   "primero": [
+    "Identifica que es parte de un barrio, colonia, vecindad, comunidad, pueblo o localidad, y describe las características y diversidad de su entorno, en términos naturales, sociales y territoriales.",
+    "Ubica algunos sitios de interés del lugar donde vive y/o donde se encuentra la escuela con referencias básicas y los representa en dibujos y croquis."
+   ],
+   "segundo": [
+    "Comprende que, tanto de forma individual como colectiva, es parte de un contexto social, natural y territorial que se distingue de otros contextos.",
+    "Describe algunos cambios y continuidades de su entorno, y se ubica espacialmente a través de croquis y mapas."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Respeto, cuidado y empatía hacia la naturaleza, como parte de un todo interdependiente.",
+   "primero": [
+    "Describe y reconoce la existencia de otros seres vivos (animales, plantas, hongos y microorganismos), y componentes de la naturaleza (ríos, mares, lagos, distintos suelos, montañas, valles y aire, entre otros) presentes en el lugar donde vive.",
+    "Analiza las formas de interactuar y explora las relaciones de cuidado y afectividad, con otros seres vivos y componentes de la naturaleza, los sentimientos que provocan, la importancia de promover el respeto y la empatía hacia todos los seres vivos y a la naturaleza.",
+    "Comprende cómo las acciones de los seres humanos pueden preservar, modificar o dañar los distintos componentes sociales y naturales del entorno."
+   ],
+   "segundo": [
+    "Se reconoce a sí mismo o a sí misma como parte del lugar donde vive y en relación con otros seres vivos (animales, plantas, hongos y microorganismos) y componentes de la naturaleza (cuerpos de agua, suelos, aire, desiertos, bosques, arrecifes e islas, entre otros); y dialoga acerca de los sentimientos que le provoca esa relación.",
+    "Dialoga acerca de las responsabilidades hacia la naturaleza y muestra respeto, cuidado y empatía hacia sus componentes, proponiendo acciones a favor de la naturaleza, en general, y de los seres vivos, en particular en la medida de sus posibilidades."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Impacto de las actividades humanas en la naturaleza y sustentabilidad: actividades humanas que afectan a la naturaleza, y la necesidad de establecer compromisos que contribuyan a la preservación, prevención y disminución del impacto socioambiental.",
+   "primero": [
+    "Describe las actividades que se realizan de manera cotidiana en su casa, escuela y comunidad, e identifica en cada caso, la relación que dicha actividad guarda con la naturaleza, para reconocer situaciones que la benefician o dañan y así valorar sus acciones."
+   ],
+   "segundo": [
+    "Relaciona las actividades humanas con la naturaleza, al identificar aquellas que pueden tener un efecto negativo, planteando la posibilidad de realizar cambios en las actividades y acciones individuales, familiares y comunitarias, para promover el cuidado responsable, la regeneración y la preservación de los seres vivos, el agua, el aire y el suelo en su entorno inmediato y lejano."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Cambios en la naturaleza del lugar donde vive, y su relación con las actividades humanas cotidianas que tienen orden cronológico, asociadas a ciclos agrícolas y festividades, así como su vínculo con la noción de tiempo y espacio histórico (“antes, durante y después”).",
+   "primero": [
+    "Reconoce que existen diferentes formas de nombrar y entender, tanto a las actividades humanas como su orden cronológico y temporal, de acuerdo con el contexto social y cultural."
+   ],
+   "segundo": [
+    "Identifica cambios en la naturaleza del lugar donde vive, y comprende su relación con las actividades humanas cotidianas, usando nociones como “antes, ahora y después” y en orden cronológico (semanas, meses, años, décadas, estaciones asociadas a ciclos agrícolas y festividades), reconociendo que existen diferentes formas de nombrarlas y entenderlas de acuerdo con el contexto.",
+    "Analiza aquellas actividades de los seres humanos que pueden tener un efecto negativo en la naturaleza, planteando la posibilidad de realizar cambios en las actividades individuales, familiares y comunitarias, para promover el cuidado responsable, la preservación de los seres vivos, el agua, el aire y el suelo en su entorno inmediato y lejano."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Los seres humanos son diversos y valiosos, y tienen derechos humanos.",
+   "primero": [
+    "Reconoce que todas las personas son únicas, valiosas y tienen el derecho humano de ser parte de familias, grupos escolares, comunidades y pueblos y que esto es parte de sus derechos humanos.",
+    "Identifica acciones y reconoce su derecho a ejercer la libertad de manifestar opiniones, ideas, sentimientos, deseos y necesidades, expresiones que considera propias, así como de recibir cuidados por parte de su familia, comunidad y/o pueblos."
+   ],
+   "segundo": [
+    "Valora la importancia de pertenecer a una familia, grupo escolar, comunidad y/o pueblo donde niñas y niños sientan cuidado y protección; las manifestaciones socioculturales que considera propias y relevantes de su pueblo y comunidad, así como la relevancia de ejercer sus derechos humanos con un sentido de corresponsabilidad y reciprocidad."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Atención a las necesidades básicas, como parte del ejercicio de los derechos humanos.",
+   "primero": [
+    "Relaciona la atención de sus necesidades básicas (alimentación, salud, y vivienda, entre otras) que forman parte del ejercicio de sus derechos humanos y comprende la importancia de que todas las personas accedan a ellos y los ejerzan, independientemente del género, edad, pueblo y comunidad, lengua, nacionalidad, religión, discapacidad o cualquier otro origen o condición."
+   ],
+   "segundo": [
+    "Vincula la atención de sus necesidades con el ejercicio de sus derechos humanos, y conoce la responsabilidad de las instituciones e instancias encargadas de protegerlos, así como el derecho de todas las personas a ejercerlos sin distingos de género, edad, pueblo y comunidad, lengua, nacionalidad, religión, discapacidad u otro."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Situaciones de violencia, injusticia o discriminación, que afectan a integrantes de nuestras familias, la escuela o la comunidad.",
+   "primero": [
+    "Reconoce actos de violencia, injusticia, desventaja o discriminación que ocurren en diferentes espacios e instituciones (escuela, unidades médicas, servicios públicos, entre otros), y es sensible a la manera en que ello afecta a las personas, colectivos y comunidades que son excluidos por edad, identidad de género, orientación sexual, origen cultural o étnico, el idioma que hablan, su origen nacional, rasgos físicos, discapacidad, religión, condición social y económica, entre otras características."
+   ],
+   "segundo": [
+    "Dialoga sobre los efectos de la violencia, injusticia y la discriminación hacia personas y grupos por características como edad, identidad de género, orientación sexual, origen cultural o étnico, el idioma que hablan, su origen nacional, características físicas, discapacidad, religión, condición social, económica o migratoria, entre otras.",
+    "Propone acciones y establece compromisos para favorecer el respeto a los derechos de todas las personas y los comparte con su familia y la comunidad."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Respeto a la dignidad e integridad: límites corporales y situaciones de riesgo para prevenir y denunciar situaciones de acoso, abuso y violencia de carácter sexual en la casa, la escuela, la comunidad y con el uso de internet y redes sociales.",
+   "primero": [
+    "Analiza la importancia del respeto a la dignidad e integridad a partir del cuidado de su cuerpo y reconocer sus límites corporales, diferenciando el contacto físico sano y reconfortante de aquél que nos causa incomodidad y amenaza nuestro bienestar físico o mental, para protección en la familia, en la escuela y la comunidad, considerando también el uso de internet y redes sociales.",
+    "Identifica y rechaza situaciones de riesgo y conductas nocivas que afectan la dignidad e integridad de las personas."
+   ],
+   "segundo": [
+    "Identifica y expresa su rechazo frente a comportamientos violentos y conductas de acoso o abuso sexual, que amenazan su integridad física y emocional de manera directa o con el uso de internet y redes sociales, y solicita apoyo y protección de integrantes de la familia, la escuela o la comunidad para su acompañamiento y, en caso de ser necesario, su denuncia."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Responsabilidad compartida en el cuidado de sí y el de nuestro entorno con la familia, la escuela, la comunidad, el uso de internet y redes sociales, para generar espacios de bienestar e inclusión, equidad e igualdad.",
+   "primero": [
+    "Identifica y describe las responsabilidades compartidas que tienen estudiantes, adultos, padres y autoridades, así como integrantes de la escuela y comunidad, para el cuidado de sí, articulado a la generación de espacios de bienestar e inclusión, equidad e igualdad y un uso responsable de internet y redes sociales."
+   ],
+   "segundo": [
+    "Comprende la importancia de la responsabilidad compartida de los padres, autoridades y los pares, en la escuela y en la comunidad.",
+    "Aporta elementos para el cuidado de sí, articulado a la creación de espacios de bienestar e inclusión, equidad e igualdad y un uso responsable de internet y redes sociales."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Historia personal y familiar, diversidad de familias y el derecho a pertenecer a una.",
+   "primero": [
+    "Indaga en diversas fuentes orales, escritas, digitales, objetos y testimonios, para construir la historia personal y familiar y la representa por medio de dibujos y gráficos como la línea del tiempo; explica similitudes y diferencias con las historias de sus pares, identificando orígenes nacionales o migratorios, étnicos, actividades y trabajos."
+   ],
+   "segundo": [
+    "Valora la diversidad de familias y promueve el respeto entre las y los integrantes de estas, para el cuidado de sí, de su familia y de las familias de su comunidad.",
+    "Reconoce el derecho de pertenecer a una familia que le cuide, proteja y brinde afecto para su bienestar físico, emocional y afectivo."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Construcción de la paz mediante el diálogo: situaciones de conflicto o discrepancia como parte de la interacción de los seres humanos en la casa, el aula, la escuela y la comunidad.",
+   "primero": [
+    "Analiza situaciones de conflicto como parte de la interacción de los seres humanos, e identifica los que ha enfrentado o ha observado en su casa, el aula, la escuela y la comunidad.",
+    "Describe e identifica a personas que participan en situaciones de conflicto o discrepancia, y usa el diálogo para evitar trascender a la violencia. Reflexiona acerca de que la paz se construye en colectivo mediante el diálogo."
+   ],
+   "segundo": [
+    "Analiza situaciones de conflicto o discrepancia en su casa, el aula, la escuela y la comunidad; habla de ellas, distingue a las personas participantes y afectadas, así como el motivo del conflicto o discrepancia.",
+    "Comprende y propone formas de solución a través del diálogo y la negociación en la que se beneficien las partes; reflexiona acerca de que al rechazar formas violentas para abordar los conflictos se construye la paz."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Democracia como forma de vida: construcción participativa de normas, reglas y acuerdos para alcanzar metas colectivas y contribuir a una convivencia pacífica en nuestra casa, el aula, la escuela y la comunidad, así como las consecuencias de no respetar acuerdos, reglas y normas escolares y comunitarias.",
+   "primero": [
+    "Participa en la revisión y construcción de acuerdos y reglas que regulan la convivencia en la familia y el grupo escolar, con la finalidad de atender las necesidades comunes, alcanzar metas colectivas, distribuir las responsabilidades y organizar el tiempo de mejor manera para convivir de forma pacífica."
+   ],
+   "segundo": [
+    "Participa en la revisión y construcción de acuerdos, reglas y normas que sirven para atender necesidades compartidas, alcanzar metas comunes, resolver conflictos y promover la convivencia pacífica en el aula, la escuela y la comunidad.",
+    "Comprende las consecuencias personales y colectivas de no respetar acuerdos, reglas y normas escolares y comunitarias."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Funciones y responsabilidades de las autoridades, de la familia, la escuela y la comunidad para la organización de la convivencia, la resolución de conflictos y el cumplimiento de acuerdos y normas de manera participativa y pacífica.",
+   "primero": [
+    "Identifica funciones y responsabilidades de las autoridades de su casa, el aula, la escuela, las actividades que realizan, cómo toman las decisiones, cómo conocen las necesidades de los integrantes de su familia o escuela, cómo se distribuyen las tareas y responsabilidades; y establece compromisos para colaborar con las autoridades",
+    "en favor de la convivencia pacífica."
+   ],
+   "segundo": [
+    "Analiza las responsabilidades de las autoridades de su escuela y comunidad, los asuntos que atienden, las acciones que realizan, cómo conocen las necesidades comunitarias, cómo toman decisiones, cómo intervienen ante los conflictos, y cuál es su papel en la construcción y el cumplimiento de acuerdos y normas; y establece compromisos",
+    "para colaborar con las autoridades en favor de la convivencia pacífica."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Situaciones de la vida diaria en las que niñas y niños pueden o no tomar decisiones, y en las que se requiere ayuda, valorando los límites y riesgos del entorno.",
+   "primero": [
+    "Reconoce y ejerce su capacidad para tomar decisiones, distinguiendo situaciones en las que niñas y niños pueden decidir, de aquellas en las que es necesario solicitar ayuda, para no ponerse en riesgo.",
+    "Identifica que cada decisión conlleva una responsabilidad y un compromiso consigo mismo o misma, con la comunidad y la sociedad."
+   ],
+   "segundo": [
+    "Valora su capacidad para tomar decisiones, distinguiendo las situaciones en las que puede tomar decisiones de aquellas en las que requiere ayuda, considerando los límites y riesgos del entorno.",
+    "Comprende que las decisiones conllevan responsabilidades y compromisos consigo mismo o misma, con la comunidad y la sociedad."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "El derecho a la igualdad de género y vida sin violencia: estereotipos de género que pueden inducir a formas de violencia, desigualdad y discriminación.",
+   "primero": [
+    "Analiza que niñas y niños tienen el derecho a participar con igualdad y pueden realizar las mismas actividades deportivas, artísticas y recreativas, tanto en casa como en la escuela.",
+    "Dialoga acerca de ideas sobre comportamientos de niñas y niños que limitan el derecho a la igualdad y la expresión de sentimientos y emociones, la participación en juegos y actividades.",
+    "Propone y participa de manera igualitaria en actividades en la casa y en la escuela."
+   ],
+   "segundo": [
+    "Analiza estereotipos de género que pueden inducir formas de violencia, desigualdad y discriminación y argumenta por qué niñas y niños tienen el derecho de participar con igualdad en actividades educativas, deportivas, artísticas y lúdicas.",
+    "Dialoga sobre estereotipos de niñas y niños asociados al género que pueden inducir a formas de violencia, desigualdad y discriminación.",
+    "Promueve y participa en actividades igualitarias en su casa, la escuela y la comunidad."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Manifestaciones culturales y símbolos que identifican a los diversos pueblos indígenas, afrodescendientes y migrantes y a México como nación.",
+   "primero": [
+    "Identifica y valora manifestaciones culturales y símbolos que identifican a la comunidad, pueblo o ciudad que incluyen distintas tradiciones, lenguas, fiestas, danzas, música, historia oral, rituales, gastronomía, artes y saberes, entre otras características. Reconoce sus vínculos con los pueblos indígenas, afromexicanos y/o migrantes, entre otros."
+   ],
+   "segundo": [
+    "Reconoce y valora símbolos nacionales que nos identifican como parte de México (el himno, el escudo y la bandera).",
+    "Representa por medio de dibujos, líneas del tiempo, croquis con el uso de referencias básicas espaciales y de símbolos propios, los cambios y permanencias en la vida cotidiana de la comunidad, comparando tres generaciones: abuelos, padres y actual."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Historia de la vida cotidiana: cambios en el tiempo y el espacio ocurridos en la comunidad.",
+   "primero": [
+    "Indaga en fuentes orales, escritas, fotográficas, testimoniales y digitales, los cambios en la vida cotidiana, en el tiempo y el espacio, ocurridos en la comunidad, con relación a las viviendas, los trabajos y las áreas verdes."
+   ],
+   "segundo": [
+    "Indaga en fuentes orales, escritas, fotográficas, testimoniales y digitales, los cambios y permanencias en la vida cotidiana en el tiempo y el espacio ocurridos en la comunidad, con relación a las comunicaciones y los transportes, el uso de la tecnología en los trabajos, los centros de reunión, centros educativos, zonas de cultivo, parques, entre otros, y los representa por medio de dibujos, líneas del tiempo, croquis y mapas."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Personas en situación de migración y sus derechos.",
+   "primero": [
+    "Reconoce la necesidad que tienen algunas personas de cambiar de lugar de residencia, para buscar mejores condiciones de vida.",
+    "Dialoga acerca de experiencias propias o de otras personas de su comunidad que han migrado dentro del país o fuera de México."
+   ],
+   "segundo": [
+    "Reconoce algunos problemas que enfrentan las personas que migran, qué sucede en el lugar que dejan y qué pasa en el lugar al que llegan.",
+    "Dialoga acerca de experiencias propias o de otras personas de su comunidad que han migrado dentro del país o fuera de México, cuáles son los motivos que los impulsan a tomar la decisión de migrar. Dialogan acerca de los derechos de las personas en situación de migración."
+   ],
+   "por_cotejar": []
+  }
+ ],
+ "dhc": [
+  {
+   "contenido": "La comunidad como el espacio en el que se vive y se encuentra la escuela.",
+   "primero": [
+    "Ubica algunos referentes del lugar donde vive y se encuentra la escuela.",
+    "Platica sobre las características geográficas, climáticas, ambientales, socioculturales y lingüísticas de su comunidad y escuela."
+   ],
+   "segundo": [
+    "Identifica las ventajas que conlleva: la seguridad, el intercambio, el sentido de pertenencia, la afectividad, el ser parte de una comunidad, barrio, unidad habitacional u otros espacios y grupos sociales.",
+    "Reconoce diferentes problemáticas sociales y ambientales de su comunidad, y reflexiona sobre algunas acciones para solucionarlas."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Actitudes y prácticas que prevalecen entre los hombres y las mujeres en las familias, la escuela y la comunidad.",
+   "primero": [
+    "Platica acerca de la organización de las responsabilidades y tareas en su familia.",
+    "Identifica la importancia de la participación equilibrada entre hombres y mujeres, adultos, niñas y niños en la cotidianeidad familiar."
+   ],
+   "segundo": [
+    "Analiza las situaciones acerca de la participación de hombres y mujeres, en las actividades familiares, incluyendo el sostenimiento económico.",
+    "Reconoce la aportación de mujeres y hombres, en las actividades de la escuela y la comunidad."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Efectos de la pandemia de COVID-19 en las familias, la escuela y la comunidad.",
+   "primero": [
+    "Comenta y reflexiona con sus compañeras y compañeros, acerca de los cambios que se produjeron durante la pandemia, en las actividades familiares, escolares y comunitarias, como: el uso de los espacios, el tiempo, las formas de comunicación, entre otros."
+   ],
+   "segundo": [
+    "Expresa, mediante diferentes recursos, sus experiencias sobre los cambios en la vida y las actividades durante la pandemia en las familias, la escuela y la comunidad.",
+    "Reflexiona en torno a sus experiencias en cuanto al aprendizaje en línea, cambios en las relaciones con sus pares y nuevas formas de comunicación a través de las tecnologías digitales."
+   ],
+   "notas": {
+    "Efectos de la pandemia de COVID-19 en las familias, la escuela y la comunidad.": "En el PDF dice «COVID- 19»: el número quedó en otro renglón."
+   },
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Historia personal y familiar.",
+   "primero": [
+    "Platica sobre sucesos de su historia personal y familiar y los ordena en antes, después y ahora."
+   ],
+   "segundo": [
+    "Escribe acerca de sucesos de su historia personal y familiar y los apoya con dibujos, fotografías o imágenes, ordenados cronológicamente."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Sentido de pertenencia a la familia y la comunidad.",
+   "primero": [
+    "Identifica aspectos de la historia familiar y de la comunidad compartidos.",
+    "Reconoce y comparte valores, como: la solidaridad, la participación, la reciprocidad, el respeto, entre otros, así como estilos socioculturales propios de su familia y comunidad."
+   ],
+   "segundo": [
+    "Entrevista a familiares o integrantes de su comunidad acerca de los aspectos que se comparten entre todas y todos.",
+    "Redacta breves textos acerca de lo que les es común a los miembros de la familia y la comunidad.",
+    "Responde sobre ¿quiénes somos?, ¿de dónde somos? y ¿qué tenemos en común?"
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Formas de ser, pensar, actuar y relacionarse.",
+   "primero": [
+    "Reconoce y descubre sus características y cambios (corporales, gustos, intereses, habilidades, necesidades y capacidades) que le hacen una persona única, con la finalidad de valorar y respetar la diversidad."
+   ],
+   "segundo": [
+    "Explora sus posibilidades y las de otras personas para mostrar empatía acerca de las situaciones y condiciones que inciden en el desarrollo personal y colectivo."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Construcción del proyecto de vida.",
+   "primero": [
+    "Explica situaciones cotidianas que se presentan en la escuela y la casa, con la intención de proponer acuerdos que generen una mejor convivencia.",
+    "Identifica las necesidades y logros que ha tenido en diferentes momentos de su historia, para comparar cambios que inciden en el desarrollo de la autonomía y una mayor participación."
+   ],
+   "segundo": [
+    "Explora necesidades e intereses al expresar lo que significan individual y colectivamente para definir metas a lograr, que contribuyan a su atención.",
+    "Reconoce logros al participar en diferentes situaciones familiares y escolares para replantear su actuación en favor de una mayor confianza, seguridad y bienestar."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Educación Integral en Sexualidad.",
+   "primero": [
+    "Reflexiona acerca de las diversas formas de ser y actuar de hombres y mujeres a partir de distintas situaciones cotidianas, para reconocer manifestaciones en favor de una interacción respetuosa y convivencia sana."
+   ],
+   "segundo": [
+    "Diferencia manifestaciones y prácticas presentes en distintos ámbitos (escolar, laboral, social, cultural u otros), para reconocer aquellas que inciden en la construcción de la identidad de género."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Capacidades y habilidades motrices.",
+   "primero": [
+    "Utiliza patrones básicos de movimiento ante situaciones que implican explorar los diferentes espacios, el tiempo y los objetos, para favorecer el conocimiento de sí."
+   ],
+   "segundo": [
+    "Combina diversos patrones básicos de movimiento para actuar con base en las características de cada juego o situación."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Posibilidades cognitivas, expresivas, motrices, creativas y de relación.",
+   "primero": [
+    "Explora acciones motrices y expresivas en juegos y situaciones cotidianas que implican equilibrio, orientación espacial-temporal y coordinación motriz, para mejorar el conocimiento de sí."
+   ],
+   "segundo": [
+    "Experimenta acciones que implican comunicación y expresión por medio del cuerpo, para asignar un carácter personal a sus movimientos y mejorar la interacción."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Estilos de vida activos y saludables.",
+   "primero": [
+    "Participa en diferentes juegos para explorar alternativas que le permitan mantener una vida activa y saludable."
+   ],
+   "segundo": [
+    "Reconoce propuestas lúdicas o expresivas que fomentan su disfrute y práctica cotidiana para favorecer una vida activa y saludable."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Pensamiento lúdico, divergente y creativo.",
+   "primero": [
+    "Busca distintas soluciones ante una misma situación de juego o cotidiana, con la intención de poner en práctica la creatividad."
+   ],
+   "segundo": [
+    "Propone soluciones ante retos y conflictos que se presentan en juegos y actividades, para promover la participación, el respeto y la colaboración."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Interacción motriz.",
+   "primero": [
+    "Colabora en la definición de normas básicas de convivencia para reconocer su influencia en la interacción presente en juegos y situaciones cotidianas."
+   ],
+   "segundo": [
+    "Reflexiona acerca de las normas básicas de convivencia en el juego y las actividades cotidianas, con el propósito de asumir actitudes que fortalezcan la interacción."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Acciones individuales que repercuten en la conservación y mejora de la salud.",
+   "primero": [
+    "Reconoce la importancia de la práctica de hábitos de higiene y limpieza en el cuidado personal, así como de otros seres vivos, con la intención de contribuir a la prevención de problemas de salud.",
+    "Explica la importancia de incluir alimentos saludables de los distintos grupos para colaborar en la modificación de hábitos de consumo personales y familiares que favorecen la salud.",
+    "Intercambia experiencias acerca de situaciones de riesgo, para compartir acciones encaminadas a su prevención."
+   ],
+   "segundo": [
+    "Reflexiona acerca de situaciones y comportamientos que ponen en riesgo la salud, para promover acciones orientadas a los cuidados personales.",
+    "Compara alimentos naturales y frescos, procesados y ultraprocesados que se consumen en su familia y la escuela, para valorar aquellos que contribuyen a mantener la salud.",
+    "Socializa alternativas de solución ante riesgo de accidentes, dependencias y formas de violencia, para valorar aquellas que puede llevar a cabo en su familia y la escuela."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Sentido de comunidad y satisfacción de necesidades humanas.",
+   "primero": [
+    "Indaga acerca de ideas, conocimientos, prácticas culturales, formas de organización y acuerdos familiares, para compartir su importancia.",
+    "Compara necesidades de las familias en diferentes contextos y las formas de utilizar el cuerpo u organizarse en su satisfacción, para explicar cambios y mejoras que se han presentado."
+   ],
+   "segundo": [
+    "Reconoce ideas, conocimientos, prácticas culturales y formas de organización, para explicar el significado que tienen en su familia y comunidad.",
+    "Identifica las necesidades de su comunidad y las formas de satisfacerlas a partir del uso del cuerpo o los objetos y la organización de las personas para explorar otras alternativas de atenderlas."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Situaciones de riesgo social en las familias, escuela y comunidad.",
+   "primero": [
+    "Reconoce situaciones de riesgos sociales en las familias, la escuela y la comunidad, así como la importancia del autocuidado, la no violencia y la convivencia pacífica."
+   ],
+   "segundo": [
+    "Propone prácticas de autocuidado, de no violencia y convivencia pacífica.",
+    "Identifica personas e instituciones que pueden ayudar en situaciones de riesgo."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Prácticas de prevención y respuesta ante desastres ambientales.",
+   "primero": [
+    "Participa en las prácticas familiares de prevención y respuesta ante fenómenos naturales que ponen en riesgo su integridad."
+   ],
+   "segundo": [
+    "Elabora y redacta acuerdos y normas, para actuar adecuadamente ante situaciones de desastres ambientales en su contexto."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Apoyos mutuos para favorecer los aprendizajes en el aula diversa.",
+   "primero": [
+    "Identifica y valora la presencia de diferentes lenguas y lenguajes en el aula y ofrece apoyos a sus pares, si es necesario."
+   ],
+   "segundo": [
+    "Formula opciones de apoyo a sus pares, ante condiciones personales diferentes: lenguas, lenguajes, movilidad, entre otras."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Aproximación a las tecnologías de la información y la comunicación.",
+   "primero": [
+    "Reconoce las tecnologías que se utilizan en su entorno y los beneficios que proporcionan en la comunicación y el aprendizaje."
+   ],
+   "segundo": [
+    "Utiliza las tecnologías de la información y la comunicación para investigar temas de su interés.",
+    "Comparte y organiza la información investigada con sus compañeras y compañeros."
+   ],
+   "por_cotejar": []
+  },
+  {
+   "contenido": "Los afectos y su influencia en el bienestar.",
+   "primero": [
+    "Conoce las emociones básicas, su función y reacciones fisiológicas, para interactuar con sus pares.",
+    "Reconoce emociones básicas en él o ella y en las demás personas, con el fin de identificar situaciones donde se necesite pedir u ofrecer ayuda."
+   ],
+   "segundo": [
+    "Considera las reacciones emocionales para la toma de decisiones de forma asertiva ante situaciones de la vida diaria, con el fin de lograr bienestar individual y colectivo.",
+    "Reflexiona sobre experiencias personales en las que las emociones le ayudaron en la resolución de situaciones cotidianas."
+   ],
+   "por_cotejar": []
+  }
+ ]
+}

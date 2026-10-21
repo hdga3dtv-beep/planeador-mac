@@ -1,0 +1,58 @@
+# Arma Planeador-Mac.zip (con Python portátil), lo prueba en Macs con chip Apple y con Intel como lo haría el profesor
+# y, solo si todo pasa, lo publica como descarga en Releases.
+name: Planeador para Mac
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  armar:
+    runs-on: macos-15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Armar Planeador-Mac.zip con Python portátil
+        run: bash .github/armar.sh
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Planeador-Mac
+          path: dist/Planeador-Mac.zip
+          if-no-files-found: error
+
+  probar:
+    needs: armar
+    strategy:
+      fail-fast: false
+      matrix:
+        mac: [macos-15, macos-15-intel]
+    runs-on: ${{ matrix.mac }}
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          name: Planeador-Mac
+          path: dist
+      - name: Descomprimir, instalar, abrir la app y generar la DEMO
+        run: bash .github/probar.sh
+
+  publicar:
+    needs: probar
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          name: Planeador-Mac
+          path: dist
+      - name: Publicar la descarga
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: >
+          gh release create "v1.${{ github.run_number }}" dist/Planeador-Mac.zip
+          --title "Planeador para Mac v1.${{ github.run_number }}"
+          --notes-file .github/notas.md --latest

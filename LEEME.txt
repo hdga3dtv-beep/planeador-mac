@@ -1,0 +1,76 @@
+PLANEADOR PARA MAC — panel para armar planeaciones didácticas en Word y PDF
+===========================================================================
+
+Funciona en tu Mac, sin internet y sin cuentas. Lo que escribes no sale de tu equipo.
+
+Instalarlo (una sola vez)
+1. Descarga Planeador-Mac.zip. Safari lo descomprime solo; si no, doble clic en el .zip.
+   Sale la carpeta «Planeador» en Descargas.
+2. En esa carpeta, doble clic en «Instalar.command».
+   - macOS 15 (Sequoia) o más nuevo: la primera vez dice que no puede verificar «Instalar.command». Pica «Listo»
+     (no «Trasladar a la papelera»). Luego abre Configuración del Sistema → Privacidad y seguridad, baja hasta el aviso
+     de «Instalar.command», pica «Abrir igualmente», escribe la contraseña de tu Mac y pica «Abrir».
+   - macOS 14 o anterior: Control + clic (o clic derecho) en «Instalar.command» → Abrir → Abrir.
+   - Si Terminal pide permiso para la carpeta Descargas, pica «Permitir».
+   - Otra forma, sin esos avisos: abre Terminal (en Aplicaciones → Utilidades), escribe
+         bash ~/Downloads/Planeador/Instalar.command
+     y presiona Enter.
+3. Listo: el Planeador queda en tu carpeta de inicio (Planeador) y la app «Planeador» en tu carpeta Aplicaciones.
+   Se abre una ventana del Finder con ella: arrástrala al Dock para tenerla a la mano.
+   Ya puedes borrar el .zip y la carpeta de Descargas.
+
+Abrirlo
+- Clic en «Planeador» del Dock (o búscalo con Spotlight: Comando + Espacio, «Planeador»).
+- Se abre en una ventana de Chrome o Edge si los tienes; si no, en tu navegador (Safari).
+- Para cerrarlo, cierra la ventana. El programa se apaga solo unos minutos después.
+
+El PDF
+- Lo hace Microsoft Word. La primera vez que pices «Generar Word y PDF»:
+  - macOS pregunta si el Planeador puede controlar Microsoft Word: pica «Aceptar».
+  - Word puede pedir acceso a la carpeta «planeaciones»: pica «Seleccionar…» y luego «Otorgar acceso».
+- Sin Word también sirve LibreOffice. Sin ninguno de los dos, el Planeador hace el Word (.docx): ábrelo y guárdalo
+  como PDF.
+
+Pasos en el panel
+1. Datos generales: escuela, clave, zona, sector, fase, grado, grupo, logos (opcionales) y las personas de la hoja de
+   firmas. Si eres el docente titular y no hay practicante, escribe tu nombre (con tu título) en «Docente titular» y,
+   sin título, en «Docente en formación»: va en el encabezado y en la hoja de firmas sales una sola vez, como titular.
+2. Campo formativo central. La metodología se elige sola. Otro clic en otro campo lo agrega como secundario.
+3. Contenidos y PDA del programa sintético oficial 2024 (Fases 3, 4 y 5). Al terminar, pica «Listo».
+4. Datos del proyecto (nombre, tema, pregunta, productos, evento de cierre) y ejes articuladores.
+5. Momentos o etapas de la metodología: arrastra cada uno al día que le toca y pica «Listo».
+6. La semana: para cada día, inicio, desarrollo y cierre, con el texto tipo PDA y las consignas.
+7. Evaluación: pica en la tabla del libro 4 los instrumentos que vas a usar.
+8. Ajustes para alumnos con NEE: una tarjeta por alumno.
+9. Formato: la Planeación Cedros (el formato de la Esc. Prim. Urbana 136 «Cedros del Líbano») o el formato de tu
+   metodología. Abajo ves cómo va a quedar.
+
+Para ver un ejemplo completo: menú Archivo → Abrir… → «DEMO para video - Comemos sano» (todo es ficticio).
+
+Menú Archivo (arriba a la izquierda)
+- Nueva ›: en blanco, con mis datos de la escuela o copia de la que tienes abierta.
+- Abrir…: todas tus planeaciones; ahí mismo se renombran y se eliminan (lo eliminado va a la papelera).
+- Recuperar ›: versiones anteriores (las últimas 30), borradores que se cerraron sin guardar y la papelera.
+- Guardar.
+- Mis datos de la escuela…: guardas una vez el paso 1 y los alumnos con NEE, y las planeaciones nuevas ya salen con ellos.
+
+Botones de arriba
+- Guardar: la guarda en Planeador/planeaciones.
+- Revisar: busca errores. Una FALLA quiere decir que así no se entrega.
+- Generar Word y PDF: arma el .docx en el formato elegido, lo revisa y lo pasa a PDF. Quedan en «planeaciones».
+
+Qué necesita
+- macOS 11 (Big Sur) o más nuevo, con chip Apple o Intel.
+- Python: ya viene incluido (es portátil: no se instala ni toca nada fuera del Planeador).
+- Microsoft Word (o LibreOffice), para el PDF.
+
+Actualizarlo
+- Descarga la versión nueva y vuelve a abrir «Instalar.command». Tus planeaciones y tus datos se quedan.
+
+Quitarlo
+- Arrastra a la papelera la carpeta Planeador de tu carpeta de inicio (ahí están también tus planeaciones: guarda antes
+  las que quieras) y la app «Planeador» de tu carpeta Aplicaciones.
+
+Si algo falla
+- Planeador/registro.txt dice lo que pasó al abrirlo.
+- Si un día la app no abre nada, vuelve a abrir «Instalar.command» desde la carpeta Planeador.

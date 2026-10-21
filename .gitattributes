@@ -1,0 +1,5 @@
+# En Mac los guiones y los .py van con saltos de línea de Unix
+*.command text eol=lf
+*.sh text eol=lf
+*.py text eol=lf
+*.yml text eol=lf
