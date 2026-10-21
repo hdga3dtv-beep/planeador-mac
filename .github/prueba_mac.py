@@ -6,7 +6,7 @@ from pathlib import Path
 DESTINO, ESPERADO = Path(sys.argv[1]), json.load(open(sys.argv[2], encoding='utf8'))
 URL = 'http://127.0.0.1:8765'
 DEMO = 'DEMO para video - Comemos sano'
-ok = True
+ok, bien = True, []                 # GitHub muestra solo 10 avisos por paso: las BIEN van juntas en uno al final
 
 
 def pide(ruta, cuerpo=None):
@@ -19,7 +19,11 @@ def pide(ruta, cuerpo=None):
 def revisa(cond, texto):
     global ok
     ok &= bool(cond)
-    print(('::notice::BIEN ' if cond else '::error::MAL ') + texto, flush=True)
+    if cond:
+        bien.append(texto)
+        print('BIEN ' + texto, flush=True)
+    else:
+        print('::error::MAL ' + texto, flush=True)
 
 
 def huellas(docx):
@@ -57,4 +61,5 @@ try:
 except Exception:
     revisa(False, 'la prueba se cayó: ' + traceback.format_exc().replace('\n', ' | ')[-900:])
 
+print(f'::notice::{len(bien)} BIEN: ' + ' · '.join(bien), flush=True)
 sys.exit(0 if ok else 1)

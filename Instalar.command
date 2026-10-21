@@ -84,7 +84,7 @@ PLIST
 cat > "$APP/Contents/MacOS/Planeador" <<LANZA
 #!/bin/bash
 cd "$DESTINO" || exit 1
-exec "$PY" "$DESTINO/servidor.py" --app >> "$DESTINO/registro.txt" 2>&1
+exec "$PY" -u "$DESTINO/servidor.py" --app >> "$DESTINO/registro.txt" 2>&1
 LANZA
 chmod +x "$APP/Contents/MacOS/Planeador"
 cp "$DESTINO/planeador.icns" "$APP/Contents/Resources/planeador.icns"

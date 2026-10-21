@@ -14,10 +14,10 @@ jobs:
   armar:
     runs-on: macos-15
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - name: Armar Planeador-Mac.zip con Python portátil
         run: bash .github/armar.sh
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v7
         with:
           name: Planeador-Mac
           path: dist/Planeador-Mac.zip
@@ -32,8 +32,8 @@ jobs:
     runs-on: ${{ matrix.mac }}
     timeout-minutes: 20
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/download-artifact@v4
+      - uses: actions/checkout@v7
+      - uses: actions/download-artifact@v8
         with:
           name: Planeador-Mac
           path: dist
@@ -44,8 +44,8 @@ jobs:
     needs: probar
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/download-artifact@v4
+      - uses: actions/checkout@v7
+      - uses: actions/download-artifact@v8
         with:
           name: Planeador-Mac
           path: dist
