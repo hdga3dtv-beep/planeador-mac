@@ -25,6 +25,9 @@ Para actualizarlo, descarga otra vez y vuelve a abrir **Instalar.command**: tus 
 
 - Eliges el campo formativo central (la metodología se elige sola), los contenidos y PDA del programa sintético
   oficial 2024, los ejes articuladores y los momentos o etapas de la metodología, y los repartes en la semana.
+- **Lectura de la realidad** (opcional, después de los datos generales): un test breve que, a partir de lo que observas en
+  tu comunidad, tu escuela y tu grupo, entrega fichas de indicios para dialogar y sugiere ejes articuladores. Puedes
+  saltarla; los ejes los sigues eligiendo tú en «Datos del proyecto».
 - **Revisar** busca errores antes de entregar: contenidos y PDA que no son textuales del programa, momentos fuera de
   orden, sesiones sin consignas, firmas que faltan…
 - **Generar Word y PDF** la arma en la *Planeación Cedros* (el formato de la Esc. Prim. Urbana 136 «Cedros del Líbano»)

@@ -8,6 +8,7 @@
 <link rel="preload" href="fonts/atkinson-400.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="fonts/baloo2-variable.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="app.css?v=43">
+<link rel="stylesheet" href="lectura.css?v=1">
 </head>
 <body>
 <!-- Diseño «cuaderno de colores» (11 oct): barra de pizarrón, ruta de los 9 pasos y cada paso como hoja de cuaderno de
@@ -51,6 +52,16 @@
       <h2>Datos generales</h2>
       <p class="sub">Van en el encabezado del Word y en las listas.</p></div>
     <div class="info" id="info"></div>
+  </section>
+
+  <!-- Sección opcional (no cuenta en la ruta): sugiere ejes articuladores a partir de una lectura crítica de la realidad.
+       No cambia la planeación; los ejes se siguen eligiendo en el paso 4. Su lógica va en lectura.js. -->
+  <section class="panel" id="s-lectura">
+    <div class="cab"><span class="num" aria-hidden="true">?</span>
+      <p class="pregunta">Opcional · ¿Qué realidad leemos?</p>
+      <h2>Lectura de la realidad</h2>
+      <p class="sub">Sugiere ejes articuladores. Puedes saltarla; se aprovecha más en Consejo Técnico.</p></div>
+    <div id="lectura-app"></div>
   </section>
 
   <section class="panel" id="s-campo">
@@ -156,6 +167,8 @@
 <dialog id="d-archivo" class="dialogo grande"></dialog>
 <dialog id="d-pregunta" class="dialogo"></dialog>
 <div class="aviso-flotante" id="toast"></div>
+<script src="lectura-datos.js?v=1"></script>
+<script src="lectura.js?v=1"></script>
 <script src="app.js?v=55"></script>
 </body>
 </html>
